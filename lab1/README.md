@@ -1,4 +1,4 @@
-# Лабораторная 1
+# Лабораторная 1 файл запуска
 
 ```bash
 cd "/home/ipoletaevaa/project/cpp/C++/FIIT_FA/NumericalMethods/lab1"
